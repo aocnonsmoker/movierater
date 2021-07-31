@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e911a2e3-7ebf-45cc-bd59-b51d71913ed3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sNzbw0nWbu6u03SSQmPYg0k0Ib" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="app_fast" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MovieRaterApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DB_PASS" value="Cs1sic" />
+        <env name="DB_PASS_MASTER" value="Cs1sic" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CSI/city-sit-center/back/src/main/python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CSI/city-sit-center/back/src/main/python/app_fast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MovieRaterApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\админ\Desktop\MovieRaterApi\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.app_fast" />
+      <item itemvalue="Python.manage" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e911a2e3-7ebf-45cc-bd59-b51d71913ed3" name="Default Changelist" comment="" />
+      <created>1620727909503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620727909503</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="19" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627669635649">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="19" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/1920.0.2560.1040@0.40.1920.1040" timestamp="1627669635649" />
+    <state x="19" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1620728008722" />
+    <state x="512" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627742458952">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="512" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/1920.0.2560.1040@0.40.1920.1040" timestamp="1627742458952" />
+    <state x="512" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1620728024058" />
+    <state x="740" y="315" key="FileChooserDialogImpl" timestamp="1627669634627">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="315" key="FileChooserDialogImpl/0.40.1920.1040/1920.0.2560.1040@0.40.1920.1040" timestamp="1627669634627" />
+    <state x="740" y="315" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1622192357224" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1627741417352">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.0.2560.1040@0.40.1920.1040" timestamp="1627741417352" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1621884199351" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1627741417351">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.40.1920.1040/1920.0.2560.1040@0.40.1920.1040" timestamp="1627741417351" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1621884199351" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1627741417351">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.40.1920.1040/1920.0.2560.1040@0.40.1920.1040" timestamp="1627741417351" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1621884199351" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1627741417351">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.40.1920.1040/1920.0.2560.1040@0.40.1920.1040" timestamp="1627741417351" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1621884199351" />
+    <state x="446" y="349" width="607" height="378" key="com.intellij.ide.util.TipDialog" timestamp="1627736169603">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="446" y="349" key="com.intellij.ide.util.TipDialog/0.40.1920.1040/1920.0.2560.1040@0.40.1920.1040" timestamp="1627736169603" />
+    <state x="446" y="349" width="607" height="378" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1622192347377" />
+  </component>
+</project>
